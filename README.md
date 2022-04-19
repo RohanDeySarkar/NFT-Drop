@@ -10,7 +10,7 @@ OpenSea -> https://testnets.opensea.io/account
 
 ThirdWeb -> https://thirdweb.com/dashboard
 
-Add Test Ether -> ether https://faucet.metamask.io/
+Add Test Ether -> https://faucet.metamask.io/
 
 Add MetaMask chrome extension, select Rinkeby Test Network
 
