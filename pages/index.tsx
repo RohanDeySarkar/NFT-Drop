@@ -13,7 +13,7 @@ const Home = ({ collections }: Props) => {
   const router = useRouter()
 
   return (
-    <div className='flex flex-col w-full items-center py-20 px-10'>
+    <div className='flex flex-col w-full items-center py-10 px-10'>
       <Head>
         <title>NFT App</title>
         <link rel="icon" href="/favicon.ico" />
@@ -27,7 +27,7 @@ const Home = ({ collections }: Props) => {
       </h1>
 
       <main className='bg-slate-100 p-10 shadow-xl shadow-rose-400/20'>
-        <div className='grid space-x-3 md:grid-cols-2 lg:grid-cols-4'>
+        <div className='grid space-x-3 md:grid-cols-2 lg:grid-cols-3'>
           {collections.map(collection => (
             <div 
               className='flex flex-col items-center cursor-pointer transition-all duration-200 hover:scale-105'
