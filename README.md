@@ -7,8 +7,12 @@ Deployed here -> https://nft-drop-chi.vercel.app/
 Backend -> https://nftdropa.sanity.studio/
 
 OpenSea -> https://testnets.opensea.io/account
+
 ThirdWeb -> https://thirdweb.com/dashboard
+
 Add Test Ether -> ether https://faucet.metamask.io/
+
+Add MetaMask chrome extension, select Rinkeby Test Network
 
 # Next.js + Tailwind CSS Example
 
