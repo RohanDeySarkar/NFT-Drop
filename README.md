@@ -1,3 +1,15 @@
+Deployed here -> https://nft-drop-chi.vercel.app/
+
+![](https://github.com/RohanDeySarkar/NFT-Drop/blob/main/Screenshot%20(371).png?raw=true)
+
+![](https://github.com/RohanDeySarkar/NFT-Drop/blob/main/Screenshot%20(372).png?raw=true)
+
+Backend -> https://nftdropa.sanity.studio/
+
+OpenSea -> https://testnets.opensea.io/account
+ThirdWeb -> https://thirdweb.com/dashboard
+Add Test Ether -> ether https://faucet.metamask.io/
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
